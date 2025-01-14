@@ -1,0 +1,4 @@
+Faker
+PyYAML
+jupyterlab
+pandas
